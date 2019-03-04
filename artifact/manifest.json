@@ -1,8 +1,8 @@
 {
   "manifest_version": 2,
-  "name": "Remove Github Delete Fork Button",
+  "name": "Remove GitHub Delete Fork Button",
   "version": "1.0.0",
-  "description": "Github の Delete Fork のボタンを非表示にする。",
+  "description": "GitHub の Delete Fork のボタンを非表示にする。",
   "author": "him0",
   "content_scripts": [
     {
